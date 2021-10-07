@@ -1,4 +1,4 @@
-#Welcome!
+# Welcome!
 
 This is a personal project where I am making notes and attempting to solve the exercises in Sutton and Barto's Reinformcement Learning (2nd Edition).
 
